@@ -85,4 +85,6 @@ The p value 0.001 is to low thus we reject the Null hypothesis. The death rate o
 
 ## Conclusions
 
+
+
 We reject the Null Hypothesis because the P value is too low. Men died at 2.3 times the rate that women dead, proving that the death rate of Korean were dependent of sex.We conclude that sex and death rate is dependent. 
