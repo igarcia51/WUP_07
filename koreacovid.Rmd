@@ -74,8 +74,15 @@ Men died at almost twice the rate as women did. 36% of the dead count was female
 
 ## Inferential results 
 
+```{r}
+chisq.test(table2)
+chisqtestGC(table2)
+fisher.test(table2)
+```
 
 
+The p value 0.001 is to low thus we reject the Null hypothesis. The death rate on Korea is dependent on Sex. The Fisher exact shows that men died at 2.3 times the rate that women died. 
 
 ## Conclusions
 
+We reject the Null Hypothesis because the P value is too low. Men died at 2.3 times the rate that women dead, proving that the death rate of Korean were dependent of sex.We conclude that sex and death rate is dependent. 
